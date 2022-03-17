@@ -1,4 +1,4 @@
-## Olá, eu sou o William Felix, estudante de ADS na FAM (cursando o 1° semestre)!
+## Olá, eu sou o William Felix, estudante de ADS na FAM (cursando o 1° semestre)
 Atualmente aprendendo sobre linguagem C.
 <div align="center">
   <a href="https://www.linkedin.com/in/william-felix-1b24811b7/">
