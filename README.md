@@ -13,6 +13,8 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="" height="30" width="40" src=https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white>
+  
   <img align="right" alt="Will-pic" height="150" style="border-radius:50px;" src="https://scontent.fgru6-1.fna.fbcdn.net/v/t39.30808-6/276073211_10219163785794903_2539631566316085114_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=8bfeb9&_nc_eui2=AeEspABD0_qskUz9qmT_PBhgnqyNwbJ7LuOerI3Bsnsu4_jiXIvDOk6HdefSkxid55I&_nc_ohc=asMTyOpmd1QAX_PWXwl&_nc_ht=scontent.fgru6-1.fna&oh=00_AT-MdC1sdHK-be1nkr5qj73WPjKPajEWtWNVn3nO1uzNRg&oe=6236F143">
 </div>
   
