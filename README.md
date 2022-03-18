@@ -1,5 +1,8 @@
-## Olá, eu sou o William Felix, estudante de ADS na FAM (cursando o 1° semestre)
-Atualmente aprendendo sobre linguagem C.
+## Olá, sou o William Felix, estudante de ADS na FAM (cursando o 1° semestre). Em transição de carreira.
+📖I’m currently learning C.
+🎓 Studying Software Engineer in FAM
+⏳ I'm 30 years old.
+
 <div align="center">
   <a href="https://www.linkedin.com/in/william-felix-1b24811b7/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wfc1991&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
