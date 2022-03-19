@@ -1,4 +1,4 @@
-## Olá, sou o William Felix, estudante de ADS na FAM (cursando o 1° semestre). Em transição de carreira.
+## Olá, sou o William Felix, estudante de ADS na FAM (cursando o 1° semestre). Em transição de carreira e louco para ter uma chance "NO MUNDO TECH!"
 📖I’m currently learning C.
 🎓 Studying Software Engineer in FAM
 ⏳ I'm 30 years old.
