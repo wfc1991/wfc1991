@@ -4,7 +4,6 @@
 ----Em transição de carreira, louco para ter uma chance "NO MUNDO TECH!"----
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/william-felix-1b24811b7/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wfc1991&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wfc1991&layout=compact&langs_count=7&theme=dracula"/>
 </div>
@@ -14,9 +13,6 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="" height="30" width="40" src=https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white>
-  
-  <img align="right" alt="Will-pic" height="150" style="border-radius:50px;" src="https://twitter.com/w_felix_c/status/1507488420154818560/photo/1">
-</div>
   
   ##
  
