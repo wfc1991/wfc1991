@@ -1,4 +1,4 @@
-## Hey, I'm William Felix, Now, I am studying Software Analysis and Development at the University FAM (Attending the 1th Semester). 
+## Hey, I'm William Felix, Now, I am studying Software Analysis and Development at the University FAM (Attending the 2th Semester). 
 📖I’m currently learning C.
 ⏳ I'm 30 years old.
 ----Em transição de carreira, louco para ter uma chance "NO MUNDO TECH!"----
